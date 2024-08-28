@@ -4,4 +4,6 @@ React combines HTML with JavaScript functionality into its own markup language c
 
 In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.
 
+This includes all the Exercises present in FreeCodeCamp on React.
+
 ![alt text](image.png)
